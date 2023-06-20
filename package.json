@@ -54,7 +54,7 @@
   "dependencies": {
     "@ampproject/toolbox-cors": "2.4.0-alpha.1",
     "@ampproject/toolbox-optimizer": "2.4.0",
-    "@google-cloud/datastore": "5.1.0",
+    "@google-cloud/datastore": "6.0.0",
     "acorn": "7.1.1",
     "casual": "1.6.2",
     "cheerio": "1.0.0-rc.3",
@@ -75,7 +75,7 @@
     "mri": "1.1.5",
     "multer": "1.4.2",
     "node-fetch": "2.6.0",
-    "node-zopfli-es": "1.0.4",
+    "node-zopfli-es": "1.0.5",
     "nunjucks": "3.2.1",
     "randomstring": "1.1.5",
     "rcs-core": "3.3.0",
